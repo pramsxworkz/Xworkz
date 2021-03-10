@@ -1,0 +1,24 @@
+Attribute : will describe the characterstic of tab
+using inside open tag.
+attribute name and attribute value.(predifined)
+name and value are case_sensitive
+
+
+Global attributes
+align========== left, center,right
+valign==============top,bottom
+background colour====
+backgroung image===url
+width====numeric value
+height==numeric value
+title=
+
+core attribute
+title
+id====" ";
+class= 
+
+
+
+<p style = "property:value;"
+
